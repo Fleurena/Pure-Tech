@@ -1,0 +1,61 @@
+a{
+    color: #11015e!important;
+}
+
+.form_navbar{
+    margin: 10px 0 10px 0;
+}
+
+
+.btn-toggle{
+    border: 1px solid #11015e!important;
+}
+
+.span-toggle{
+    color: #11015e!important;
+}
+
+.search_bar{
+    width: 85%!important;
+    border-radius: initial!important;
+}
+
+.btn-back{
+    background-color: #11015e;
+    padding: 0.9%!important;
+    width: 15%;
+    border-radius: initial!important;
+}
+
+.btn-back-drop{
+    background-color: #11015e;
+    color: white;
+    border-radius: initial!important;
+}
+
+.categories-margin{
+    margin-left: 10px;
+}
+
+.a-link-drop{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.dropdown-menu{
+    width: 156%;
+}
+
+.a_cat{
+    float: left;
+}
+
+.sub_block{
+    width: auto;
+    padding-left: 130px;
+}
+
+.a_sub{
+    margin: 5px;
+    display: flex;
+}

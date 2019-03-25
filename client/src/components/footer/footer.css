@@ -1,0 +1,33 @@
+footer {
+    background-color: #11015e!important;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
+
+.link {
+    color: white!important;
+}
+
+.link-group {
+    padding-top: 40px;
+    padding-bottom: 30px;
+    list-style-type: none;
+}
+
+.title-link {
+    color: white!important;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.row {
+    margin-right: 0 !important;
+}
+
+@media (max-width: 600px) {
+    .link-group {
+        text-align: center;
+    }
+}

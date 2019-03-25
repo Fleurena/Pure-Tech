@@ -1,0 +1,8 @@
+#alert {
+    background-color: rgb(177, 66, 66);
+
+    width: 90%;
+    margin-left: 22px;
+    border: solid black 1px;
+    margin-bottom: 20px;
+}

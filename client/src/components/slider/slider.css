@@ -1,0 +1,46 @@
+.block {
+    height: 360px;
+    width: auto;
+    background-size: contain;
+}
+
+.block img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.dot-1 {
+    bottom: 17px!important;
+}
+
+.slick-next {
+    right: 14px!important;
+}
+
+.slick-next:before, .slick-prev:before {
+    color: #36e142!important;
+}
+
+.slick-prev {
+    left: 7px!important;
+    z-index: 1000;
+}
+
+.slick-dots li.slick-active button:before {
+    color: #1fe92cba;
+}
+
+.slick-dots li button:before {
+    color: #36e142!important;
+    transition: 1s!important;
+    font-size: 26px!important;
+}
+
+.slick-dots li button:before {
+    font-size: 26px;
+}
+
+.slick-prev:before, .slick-next:before {
+    font-size: 26px!important;
+}

@@ -1,0 +1,30 @@
+.news-contain{
+    width: 100%;
+    padding: 25px 0;
+}
+
+.news-block{
+    height: 360px;
+    width: auto;
+    background-size: contain;
+}
+
+.news-block img{
+    width: 100%;
+    height: auto;
+    padding: 40px;
+    object-fit: cover; 
+}
+
+.h6-news{
+    padding: 0 32px;
+}
+
+.dot-2{
+    display: none!important;
+}
+
+.text-stock{
+    color: #36e142;
+    font-size: 19px;
+}

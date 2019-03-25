@@ -1,0 +1,34 @@
+#main-category-wrapper {
+   background-color: rgb(172, 164, 143);
+   margin-left: auto;
+   margin-right: auto;
+   width: 450px;
+}
+
+#main-category-wrapper .champ {
+    margin-bottom: 20px;
+    border-bottom: solid 20px rgb(88, 82, 74);
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+#main-category-wrapper label {
+    margin-left: 20px;
+}
+
+#main-category-wrapper input {
+    width: 410px;
+    background-color: rgb(199, 190, 161);
+}
+
+#main-category-wrapper h3 {
+    padding: 5px;
+    background-color: rgb(52, 77, 74);
+    color: black;
+    border: solid 1px black;
+}
+
+#testy img {
+    margin-left: 120px;
+    width: 150px;
+}

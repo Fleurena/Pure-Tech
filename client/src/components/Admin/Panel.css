@@ -1,0 +1,70 @@
+#test {
+    padding-top: 30px;
+    background-color: rgb(43, 43, 43);
+    height: 2000px;
+}
+
+#options {
+    height: 250px;
+    width: 250px;
+    background-color: rgb(196, 186, 170);
+}
+
+#options h3 {
+    text-align: center;
+    background-color: rgb(153, 139, 120);
+    margin: 0;
+}
+
+#options li {
+    list-style: none;
+}
+
+#menu-options {
+    padding: 0;
+}
+
+#option-choice li {
+    display: inline-block;
+}
+
+#testtest {
+    position: absolute;
+    margin-left: 600px;
+    top: 30px;
+}
+
+#button-close{
+    padding: 0;
+    float: right;
+    margin-top: -10px;
+    background-color: rgb(88, 82, 74);
+    border: solid 1px black;
+}
+
+#button-close img {
+    height: 40px;
+}
+
+#menu {
+    position: absolute;
+    left: 270px;
+    top: 30px;
+}
+
+#infos-entity img {
+    height: 60px;
+}
+
+#infos-entity input {
+    float: right;
+    margin-top: 23px;
+}
+
+#list-entity {
+    overflow: scroll;
+    padding-left: 5px;
+    height: 600px;
+    width: 250px;
+    background-color: rgb(196, 186, 170);
+}
